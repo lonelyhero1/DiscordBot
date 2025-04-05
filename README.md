@@ -1,4 +1,4 @@
-# jiaming-bot
+# Discord-bot
 
 一個discord機器人
 
@@ -15,7 +15,7 @@
     ![啟動](assets/load.png)
 
     ![轉傳](assets/message.png)
-    
+
 2. discord輸入指令
 
     ![!開台](assets/opening.png)
